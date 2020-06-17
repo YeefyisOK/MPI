@@ -10,6 +10,6 @@ MPI 练习代码
           
           二维分块（cannon算法） cannon.cpp
           
- 迭代法：iteration.cpp
+ Jacobi迭代法：iteration.cpp
  
  
